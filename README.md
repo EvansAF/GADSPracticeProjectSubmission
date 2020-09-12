@@ -1,5 +1,6 @@
 # GADSPracticeProjectSubmission
-## My commands are attached as descriptions to the list of gcp exercises listed below
+## My commands are attached as descriptions to the list of gcp exercises listed below. Click on the three dots after 'Add files via upload'
+… to see the description
 ## Files that have the word exercise in them contain the code modification for transformations of their referenced qwiklabs console instructions into command line 
  ## They are :
  1. Working_with_Virtual_Machines_translation_exercise1 
